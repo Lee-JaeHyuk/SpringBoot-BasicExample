@@ -35,10 +35,6 @@ S/W 개발 환경
 
 <br/><br/>
 
-### **3. Intellij IDEA review**
-
-  
-
 
 
 
