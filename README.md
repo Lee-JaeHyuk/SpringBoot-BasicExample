@@ -1,5 +1,5 @@
 # SpringBoot-BasicExample
-##스프링을 시작하는 HelloWorldController 만들기
+## 스프링을 시작하는 HelloWorldController 만들기
 
 ### **1. 프로젝트 소개**
 
